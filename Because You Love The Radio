@@ -5,7 +5,7 @@
   "author": "Takahashi Tsubasa",
   "cover": "https://images2.imgbox.com/20/da/76QmSgZE_o.jpg",
   "chapters": {
-    "Ch1": {
+    "1": {
       "title": "Chapter 1",
       "volume": "Vol 1",
       "groups": {
@@ -13,7 +13,7 @@
       },
       "last_updated": "1610380241"
     },
-    "Ch2": {
+    "2": {
       "title": "The Radio Studies Club and You",
       "volume": "Vol 1",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1613490641"
     },
-    "Ch3": {
+    "3": {
       "title": "Radio Broadcasts and You (1)",
       "volume": "Vol 1",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1617205841"
     },
-    "Ch4": {
+    "4": {
       "title": "Radio Broadcasts and You (2)",
       "volume": "Vol 1",
       "groups": {
@@ -37,7 +37,7 @@
       },
       "last_updated": "1617378641"
     },
-    "Ch5": {
+    "5": {
       "title": "Just Like Me",
       "volume": "Vol 1",
       "groups": {
