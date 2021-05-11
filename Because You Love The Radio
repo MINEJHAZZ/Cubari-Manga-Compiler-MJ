@@ -44,7 +44,14 @@
         "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/nqk5sCu"
       },
       "last_updated": "1618329041"
-    }
-    
+    }, 
+    "6": {
+      "title": "To Be Released.",
+      "volume": "Vol 1",
+      "groups": {
+        "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/<insert imgur>"
+      },
+      "last_updated": "1618329041"
+    } 
   }
 }
