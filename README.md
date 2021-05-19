@@ -24,4 +24,4 @@ https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_
 
 # Check out the status of the mangas here:
 ### Spruce Tree Scanlation Discord:
-https://discord.gg/33cw4AFTDP
+* https://discord.gg/33cw4AFTDP
