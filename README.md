@@ -2,7 +2,7 @@
 
 # Info
 
-A manga compiler that is used to compile all the chapters of a series thats being scanlated by "Spruce Tree Scanlation" on [Cubari/Guya](https://github.com/MINEJHAZZ/Cubari-Manga-Compiler-MJ/tree/main#series).
+A manga compiler that is used to compile the chapters of all the series thats being scanlated by "Spruce Tree Scanlation" on [Cubari/Guya](https://github.com/MINEJHAZZ/Cubari-Manga-Compiler-MJ/tree/main#series).
 
 # Some credits for the code
 https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/
