@@ -17,9 +17,14 @@ https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_
 * Link: https://cubari.moe/read/gist/BecauseYouLoveTheRadio/
 * Submit: [new chapters](https://github.com/MINEJHAZZ/Cubari-Manga-Compiler-MJ)
 
-### Ibara-Chan Can't Rebel!
+### Devil-chi
 
-* Link: https://cubari.moe/read/gist/IbarachanCantRebel/
+* Link: https://cubari.moe/read/gist/
+* Submit: [new chapters](https://github.com/MINEJHAZZ/Cubari-Manga-Compiler-MJ)
+
+### Hapiel
+
+* Link: https://cubari.moe/read/gist/JGNmN 
 * Submit: [new chapters](https://github.com/MINEJHAZZ/Cubari-Manga-Compiler-MJ)
 
 # Check out the status of the mangas here:
