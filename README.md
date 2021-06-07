@@ -19,7 +19,7 @@ https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_
 
 ### Devil-chi
 
-* Link: https://cubari.moe/read/gist/JZtjA
+* Link: https://cubari.moe/read/gist/Devilchi
 * Submit: [new chapters](https://github.com/MINEJHAZZ/Cubari-Manga-Compiler-MJ)
 
 ### Hapiel
