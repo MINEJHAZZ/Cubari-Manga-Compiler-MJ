@@ -6,10 +6,18 @@
   "cover": "https://cdn.discordapp.com/attachments/820092700296347658/851209717706391552/Devil-chi.jpg",
   "chapters": {
     "84": {
-      "title": "To be released.",
-      "volume": "",
+      "title": "Most Of All",
+      "volume": "5",
       "groups": {
-        "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/JHn0N1D"
+        "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/dM1STOy"
+      },
+      "last_updated": ""
+    } 
+    "85": {
+      "title": "Eru",
+      "volume": "5",
+      "groups": {
+        "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/IojRyGh"
       },
       "last_updated": ""
     } 
