@@ -54,12 +54,20 @@
       "last_updated": "1620865384"
     }, 
     "6.5": {
-      "title": "To Be Released.",
+      "title": "Volume 1 Extras",
       "volume": "1",
+      "groups": {
+        "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/PCo5eKS"
+      },
+      "last_updated": "1623110400"
+    }, 
+    "7": {
+      "title": "To Be Released.",
+      "volume": "2",
       "groups": {
         "Spruce Tree Scanlations": "/proxy/api/imgur/chapter/5KoMMtX"
       },
       "last_updated": ""
-    } 
+    }
   }
 }
