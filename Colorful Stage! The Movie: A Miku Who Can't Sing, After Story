@@ -1,0 +1,17 @@
+{
+  "title": "Colorful Stage! The Movie: A Miku Who Can't Sing, After Story",
+  "description": "A Oneshot consisting of the After Story of the Hatsune Miki Colorful Stage! The Movie: A Miku Who Can't Sing",
+  "artist": "SEGA, Colorful Pallete",
+  "author": "SEGA, Colorful Pallete",
+  "cover": "https://media.discordapp.net/attachments/1031283104746311812/1363644070236520549/P1_-_Cover_Page_Large.png",
+  "chapters": {
+    "1": {
+      "title": "Oneshot", 
+      "volume": "0",
+      "groups": {
+        "Light Abyss": "/proxy/api/imgur/chapter/VM9wYaS"
+      },
+      "last_updated": "1745159902"
+    }
+  }
+}
